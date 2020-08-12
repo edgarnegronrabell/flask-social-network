@@ -1,0 +1,10 @@
+{
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"savePath": "/static/css/"
+		}
+	],
+	"python.pythonPath": "/Users/edgarnegron/opt/miniconda3/envs/flask-social-network/bin/python"
+}
